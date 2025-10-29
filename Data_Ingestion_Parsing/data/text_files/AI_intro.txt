@@ -1,0 +1,3 @@
+Artificial Intelligence (AI) is a branch of computer science that deals with creating machines or software capable of performing tasks that normally require human intelligence. 
+ These tasks include reasoning, learning, decision making, problem solving, understanding language, and perception.
+John McCarthy (who coined the term in 1956) defined AI as “the science and engineering of making intelligent machines.”
