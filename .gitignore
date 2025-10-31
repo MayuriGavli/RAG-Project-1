@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+Data_Ingestion_Parsing/.DS_Store
+Data_Ingestion_Parsing/data/word/.DS_Store

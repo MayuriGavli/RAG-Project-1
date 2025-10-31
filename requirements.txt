@@ -8,4 +8,10 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
-pandass
+pandas
+pymupdf
+unstructured
+pdfminer
+python-docx
+docx2txt
+unstructured[docx]
